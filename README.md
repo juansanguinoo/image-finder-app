@@ -1,4 +1,4 @@
-# Image Search Engine App
+# Image Finder App
 
 Image search engine that provides a wide variety of public domain images.
 
